@@ -11,3 +11,4 @@ ipython_config.py
 # Remove virtual env
 .venv/
 venv/
+.idea/
