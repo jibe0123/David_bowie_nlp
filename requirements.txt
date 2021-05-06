@@ -23,7 +23,7 @@ docutils==0.15.2
 en-core-web-sm==2.2.5
 entrypoints==0.3
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 fpdf==1.7.2
 gensim==3.8.1
 google==2.0.3
